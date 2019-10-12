@@ -1,0 +1,25 @@
+---------------------------------------------------------------------
+CURRENT CATEGORY DISTRIBUTION [Version 2]
+---------------------------------------------------------------------
+0) common small talk / greetings        {85 samples}
+1) compliments                          {85 samples}
+2) high risk factors                    {85 samples}
+3) legal issues / age diff              {85 samples}
+4) getting information / contact        {85 samples}
+5) romance                              {85 samples}
+6) explicit                             {85 samples}
+
+---------------------------------------------------------------------
+PREVIOUS CATEGORY DISTRIBUTIONS
+---------------------------------------------------------------------
+[Version 1]
+1) small talk (50)
+2) compliments (40)
+3) reverse psychology (40)
+4) high risk factors (45)
+5) environment info (30)
+6) personal info (40)
+7) getting in touch (40)
+8) relationship (40)
+9) explicit (140)
+---------------------------------------------------------------------
